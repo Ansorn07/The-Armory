@@ -22,5 +22,4 @@ Welcome to **The-Armory** – my daily grind zone where I upload solutions to Le
 - 📌 Dynamic Programming  
 - 📌 Sorting & Searching  
 - 📌 Sliding Window, Two Pointers  
-- 📌 Greedy & Bit Manipulation
-# The-Armory
+- 📌 Greedy & Bit Manipulation# The-Armory
